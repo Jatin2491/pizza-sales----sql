@@ -21,6 +21,7 @@ Find the category-wise distribution of pizzas.
 Calculate the average number of pizzas ordered per day.
 Top 3 most ordered pizza types based on revenue.
 Top 3 most ordered pizza types based on revenue for each pizza category.
+
 ## Tools Used
 - MySQL / PostgreSQL
 - SQL Joins, Aggregations, Window Functions
